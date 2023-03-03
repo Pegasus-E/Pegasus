@@ -1,3 +1,2 @@
 # Pegasus
-Config files for my GitHub profile.
-Java.PHP.
+SRC挖掘、渗透测试中的一些小脚本
